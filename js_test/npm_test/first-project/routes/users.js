@@ -8,6 +8,9 @@ const userInfo = {
   },
   kim : {
     password: '456456'
+  },
+  park : {
+    password: '789789'
   }
 }
 
